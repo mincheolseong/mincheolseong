@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 I want to go to graduate school.
 =============
-*fell free to ask me. 
+* feel free to ask me. 
