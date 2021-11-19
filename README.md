@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Mincheol%20Seong&fontSize=70&fontColor=FFFFFF&animation=twinkling)
+
 I'm an army officer who wants to go to graduate school.
 ===========
 * After being discharged from the military, I hope to enter the direct Ph.D. program at a school in the United States of America.
