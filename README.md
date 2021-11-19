@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I want to go to graduate school.
+I'm an army officer who wants to go to graduate school.
 =============
 * feel free to ask me. 
