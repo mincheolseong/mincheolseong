@@ -7,3 +7,5 @@ I'm an army officer who wants to go to graduate school.
 * I'm currently conducting research to solve the UAV optimal path problem with Reinforcement Learning :airplane:.
 * I'm using GitHub to write a high-quality Statement of Purpose with my research results.
 * If you have any questions for me, please feel free to leave an email. :smile:
+
+                                                [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
