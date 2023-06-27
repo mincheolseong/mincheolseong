@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Mincheol%20Seong&fontSize=70&fontColor=FFFFFF&animation=twinkling)
 
-I'm an army officer who wants to go to graduate school.
+I'm an ROK army officer who wants to go to graduate school.
 ===========
 * After my military discharge, I aspire to enroll in a direct Ph.D. program at a school in the United States.
 * Currently, my studies focus on Reinforcement Learning.
